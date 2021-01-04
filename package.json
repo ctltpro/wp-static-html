@@ -1,0 +1,27 @@
+{
+  "name": "wp-static-html",
+  "version": "1.0.0",
+  "description": "Converts any wordpress site to a static html using scraping technique. Does not require any WP export files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ctltpro/wp-static-html.git"
+  },
+  "keywords": [
+    "Wordpress",
+    "wp",
+    "to",
+    "static",
+    "static",
+    "html"
+  ],
+  "author": "Siva Kishore G",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ctltpro/wp-static-html/issues"
+  },
+  "homepage": "https://github.com/ctltpro/wp-static-html#readme"
+}
